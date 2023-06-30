@@ -1,2 +1,2 @@
 # Profile
-https://img.shields.io/badge/content%20content?style=flat&logo=django&logoColor=%23092E20&label=label%20label&color=%23092E20
+![Static Badge](https://img.shields.io/badge/-Django-%23092E20?logo=django&logoColor=%23092E20&labelColor=%23FFFFFF&color=%23092E20&cacheSeconds=3600&link=%23)
